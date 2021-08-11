@@ -1,3 +1,0 @@
-# MavenSample
-
-testpoll
